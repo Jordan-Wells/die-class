@@ -1,2 +1,4 @@
 # The second Git Lab
-## second team member: Paul Clifford
+## first team member: Jordan Wells
+## Second team member: Paul Clifford
+This repository is an example of a C++ project

@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: Jordan wells
+# The second Git Lab
+## Second team member: Paul Clifford

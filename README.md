@@ -1,4 +1,4 @@
-# Git Lab #2
+# The second Git Lab
 ## first team member: Jordan Wells
-
-Die class project. It simnulates a die and includes a driver program
+## Second team member: Paul Clifford
+###Die class project. It simnulates a die and includes a driver program

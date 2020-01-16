@@ -24,5 +24,4 @@ Answer 6: DEADJOE  file.md  first-answers.md  README.md  second-answers.md
 
 Answer 7: No
 
-Answer 8: 
 

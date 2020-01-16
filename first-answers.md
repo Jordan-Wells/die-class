@@ -1,3 +1,6 @@
+Name:Jordan Wells
+Date: 14 January 2020
+
 Q1:
   ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/Jordan-Wells/die-class.git'

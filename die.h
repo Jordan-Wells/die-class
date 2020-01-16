@@ -1,4 +1,4 @@
-#ifndef
+#ifndef    
 #define DIE_H
 #include <iostream>
 #include <fstream>

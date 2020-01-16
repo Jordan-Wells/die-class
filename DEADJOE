@@ -1,0 +1,92 @@
+
+*** These modified files were found in JOE when it aborted on Tue Jan 14 16:46:09 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/pcliffor/die-class/.git/COMMIT_EDITMSG
+
+*** File '/home/pcliffor/die-class/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   second-answers.md
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Tue Jan 14 16:52:49 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/pcliffor/die-class/.git/MERGE_MSG
+
+*** File '/home/pcliffor/die-class/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/Jordan-Wells/die-class
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+"snfoanfn"
+
+
+
+
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Wed Jan 15 20:46:01 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/pcliffor/die-class/.git/MERGE_MSG
+
+*** File '/home/pcliffor/die-class/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/Jordan-Wells/die-class
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Wed Jan 15 21:03:37 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/jwells/2401/git-lab/die-class/.git/MERGE_MSG
+
+*** File '/home/jwells/2401/git-lab/die-class/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/Jordan-Wells/die-class
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

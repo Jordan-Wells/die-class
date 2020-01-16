@@ -1,3 +1,5 @@
+Name: Paul Clifford
+
 Answer 1:  ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/Jordan-Wells/die-class.git'
 hint: Updates were rejected because the remote contains work that you do
